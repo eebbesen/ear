@@ -23,6 +23,9 @@ body {
   font-size: 1.5em;
 }
 
+ol {
+  margin-right: .8em;
+}
 
 ol li {
   font-weight: bold;
